@@ -1,0 +1,7 @@
+= Maui Indexer Standalone
+
+To build the standalone version, just type:
+
+mvn clean package
+
+the fully standalone runner with all of the dependencies packaged up and ready to use is in the target folder.
