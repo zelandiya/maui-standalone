@@ -6,4 +6,4 @@ mvn clean package
 
 the fully standalone runner with all of the dependencies packaged up and ready to use is in the target folder.
 
-java -Dlog4j.configuration=file:///Users/richard/java/entopix/maui/src/main/resources/log4j.xml -jar standalone-1.1-SNAPSHOT.jar
+java -Dlog4j.configuration=file:///Path/to/your/log4j.xml -jar standalone-1.1-SNAPSHOT.jar
